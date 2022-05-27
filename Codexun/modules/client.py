@@ -606,7 +606,7 @@ If you didn't know how to make your own bot then contact us at @M8N_SUPPORT and 
 **Thanks !!**""",
        reply_markup=InlineKeyboardMarkup(
             [[
-                    InlineKeyboardButton("Get Repo 📦", url=f"https://github.com/PavanMagar/CodexunMusicBot")
+                    InlineKeyboardButton("Get Repo 📦", url=f"https://github.com/UnknownMortal/M8N-Music-Bot")
                 ],
               [InlineKeyboardButton("🔙  Back Home", callback_data="cbabout")]]
         ),
