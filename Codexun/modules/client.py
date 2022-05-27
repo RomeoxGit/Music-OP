@@ -597,13 +597,13 @@ async def cbtuto(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""**Make Your Own Bot Like this💡**
 
-Good news! Now you can allow to make your own music bot like to this one. You will be get repo link below just click on it and follow steps!
+Good news!! Now you can allow to make your own music bot like to this one. You will be get repo link below just click on it and follow steps!
 
-If you didn't know how to make your own bot then contact us at @TeamCodexun and get help from us.
+If you didn't know how to make your own bot then contact us at @M8N_SUPPORT and get help from us.
 
-**🔗 Repo Link : https://github.com/PavanMagar/CodexunMusicBot**
+**🔗 Repo Link : https://github.com/UnknownMortal/M8N-Music-Bot**
 
-**Thanks !""",
+**Thanks !!**""",
        reply_markup=InlineKeyboardMarkup(
             [[
                     InlineKeyboardButton("Get Repo 📦", url=f"https://github.com/PavanMagar/CodexunMusicBot")
